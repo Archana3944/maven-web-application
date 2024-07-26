@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">welcome to Mithun Technologies Private ltd .Best place to upskill - New DevOps Batch will be start on August 1st 7.30PM IST - WebHook Demo </h1>
+<h1 align="center">welcome to Mithun Technologies Private ltd .Best place to upskill - New DevOps Batch will be start on August 1st 7.30PM IST - PollSCM Demo </h1>
 <h1 align="center">Welcome to Mithun Technologies Private Ltd. Ph No: +91-9980923226, +91-9980923216 ,+91-9900012028,Bengaluru,Karnataka,India</h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
